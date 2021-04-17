@@ -1,1 +1,3 @@
-So we all know the formula for converting celsius to fahrenheit. This is ML model uses Tensorflow to figure out the formula and generate results. This is my beginer step in Tensorflow.
+I have used the Fashion Mnist dataset and trained the ML model using Tensorflow. 
+
+It returns a list of probabilities for the predicted image.
